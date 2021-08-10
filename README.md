@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **CSS**
 
-- ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. (Sometimes I sob quietly to myself, but in coding there no pain no gain) 😈**
+- ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. Sometimes I sob quietly to myself, but in coding there no pain no gain. 😈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
