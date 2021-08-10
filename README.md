@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janay aka JLpng</h1>
-<h3 align="center">A passionate programmer learning web dev</h3>
+<h3 align="center">Freelance Developer in Training</h3>
 
 - 🔭 I’m currently working on **The Odin Project**
 
