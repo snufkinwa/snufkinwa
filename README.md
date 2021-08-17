@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **CSS**
 
-- ⚡ Fun fact **personality type ENTJ, I'm social butterfly- love to meet new people and get off topic. I love memes and to laugh in stressful situations. Fitness and yoga is life outside of coding.**
+- ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. Sometimes I sob quietly to myself, but in coding- no pain no gain. 😈***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
