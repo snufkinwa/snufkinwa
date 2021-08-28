@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snufkinwa&label=Profile%20views&color=0e75b6&style=flat" alt="snufkinwa" /> </p>
 
-- 🔭 I’m currently working on **MERN Bug Tracker and TOP**
+- 🔭 I’m currently working on **TOP**
 
-- 🌱 I’m currently learning **MERN stack, CSS**
+- 🌱 I’m currently learning **MERN stack, Redux, CSS**
 
 - 🤝 I’m looking for help with **CSS**
 
