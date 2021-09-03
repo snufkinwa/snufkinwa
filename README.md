@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **TOP**
 
-- 🌱 I’m currently learning **MERN stack, Redux, CSS**
+- 🌱 I’m currently learning **Redux, Truffle, Solidity, Blockchain**
 
-- 🤝 I’m looking for help with **CSS**
+- 🤝 I’m looking for help with **🤷**
 
 - ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. Sometimes I sob quietly to myself, but in coding- no pain no gain. 😈***
 
