@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janay</h1>
-<h3 align="center">Freelance Developer in Training 🚧</h3>
+<h3 align="center">Freelance Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snufkinwa&label=Profile%20views&color=0e75b6&style=flat" alt="snufkinwa" /> </p>
 
-- 🔭 I’m currently working on **TOP**
+- 🔭 I’m currently working on **Gaining experience ✨**
 
-- 🌱 I’m currently learning **Redux, Truffle, Solidity, Blockchain**
+- 🌱 I’m currently learning **Redux, Cron, Solidity, Blockchain**
 
 - 🤝 I’m looking for help with **🤷**
 
