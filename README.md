@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snufkinwa&label=Profile%20views&color=0e75b6&style=flat" alt="snufkinwa" /> </p>
 
-- 🔭 I’m currently working on **NextJs, Next-Auth, Cadence**
+- 🔭 I’m currently working on **dapp involving hentai**
 
-- 🌱 I’m currently learning **Brownie, Machine Learning Models, Flask, REST API**
+- 🌱 I’m currently learning **Blender, Go, a lot**
 
-- 🤝 I’m looking for help with **🤷**
+- 🤝 I’m looking for help with **building a team that wants to expand an adult industry platform to web3.0**
 
 - ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. Sometimes I sob quietly to myself, but in coding- no pain no gain. 😈**
 
