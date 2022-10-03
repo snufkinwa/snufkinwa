@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blender, Go**
 
-- 🤝 I’m looking for help with **Ah! My Waifu, a DAPP that involves hentai**
+- 🤝 I’m looking for help with **Ah! My Waifu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
