@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Janay</h1>
-<h3 align="center">The Ideas Girl and Full Stack Web3.0 Dev</h3>
+<h3 align="center">Full Stack Web3.0 Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snufkinwa&label=Profile%20views&color=f490b3&style=flat" alt="snufkinwa" /> </p>
 
-- 🔭 I’m currently working on **Ah! My Waifu**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Blender, Go**
 
-- 🤝 I’m looking for help with **Ah! My Waifu**
+- 🤝 I’m looking for help with ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
