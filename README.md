@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **BSCompSc, Misfits Ninja**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **lots of things**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with 🙂
 
 <h3 align="left">Connect with me:</h3>
 
