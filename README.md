@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **🙂**
 
-- 👨‍💻 All of my projects are available at [janay.codes](janay.codes)
+- 👨‍💻 All of my projects are available at [janay.codes](https://janay.codes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
