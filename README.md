@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snufkinwa&label=Profile%20views&color=0e75b6&style=flat" alt="snufkinwa" /> </p>
 
-- 🔭 I’m currently working on **BCompSc**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Calculus, Java, Svelte**
 
