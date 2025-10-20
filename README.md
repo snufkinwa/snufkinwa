@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Synaptik Core](https://synaptik-core.dev)
 
-- 🌱 I’m currently learning **Advanced Rust, Reinforcement Learning, and distributed DAG storage.**
+- 🌱 I’m currently learning **Advanced Rust, Reinforcement Learning, and distributed storage.**
 
 - 👯 I’m looking to collaborate on **Ethical AI, FinTech, or cognitive architectures**
 
