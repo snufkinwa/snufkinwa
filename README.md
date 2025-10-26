@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Janay from 🇺🇸 <br><br>- 🔭 I’m working as Founding and Independent AI Researcher @synaptik-core-ai<br>- 📚 I'm currently learning distributed systems<br>
+<p align="left">I'm Janay from 🇺🇸 <br><br>- 🔭 I’m working as Founder and Independent AI Researcher @synaptik-core-ai<br>- 📚 I'm currently learning distributed systems<br>
 
 ###
 
