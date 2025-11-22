@@ -62,7 +62,7 @@
 
 <div align="center">
     <div style="display:inline-flex;align-items:center;gap:12px;padding:10px 24px;border:4px solid #ddd;border-radius:999px;background:transparent;">
-      <img height="150" src="./images/autism.gif" style="border-radius:50%;object-fit:cover;" alt="autism" />
-      <img height="150" src="./images/nuero.gif" style="border-radius:12px;" alt="neuro" />
+      <img height="150" src="./images/autism.gif" alt="autism" />
+      <img height="150" src="./images/nuero.gif" alt="neuro" />
     </div>
 </div>
