@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./images/2.gif"  />
+  <img height="450" src="./images/dance.gif"  />
 </div>
 
 ###
@@ -18,15 +18,7 @@
 
 ###
 
-<div align="center">  <img height="150" src="./images/hello.gif"  /></div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Janay from 🇺🇸 <br><br>- 🔭 I’m working as Founder and Independent AI Researcher @synaptik-core-ai<br>- 📚 I'm currently learning distributed systems<br>
+<p align="left">Hello! I'm Janay from 🇺🇸 <br><br>- 🔭 I’m working as Founder and Independent AI Researcher @synaptik-core-ai<br>- 📚 I'm currently learning distributed systems<br>
 
 ###
 
@@ -35,11 +27,11 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="40" alt="pypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" />        
   <img width="12" />
@@ -69,5 +61,9 @@
 ###
 
 <div align="center">
-  <img height="150" src="./images/sanrio.gif"  />
+    <div style="display:inline-flex;align-items:center;gap:12px;padding:10px 24px;border:4px solid #ddd;border-radius:999px;background:transparent;">
+      <img height="150" src="./images/autism.gif" style="border-radius:50%;object-fit:cover;" alt="autism" />
+      <img height="150" src="./images/nuero.gif" style="border-radius:12px;" alt="neuro" />
+    </div>
+    </div>
 </div>
