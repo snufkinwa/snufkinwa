@@ -65,5 +65,4 @@
       <img height="150" src="./images/autism.gif" style="border-radius:50%;object-fit:cover;" alt="autism" />
       <img height="150" src="./images/nuero.gif" style="border-radius:12px;" alt="neuro" />
     </div>
-    </div>
 </div>
