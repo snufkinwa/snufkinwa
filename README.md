@@ -5,7 +5,6 @@
 ###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/janay-codes/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  /></a>
 <img width="30" />
 <a href="https://x.com/init_cogiate"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="25" alt="twitter logo"  /></a>
 </div>
